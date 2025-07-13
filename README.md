@@ -1,4 +1,4 @@
 Install using
 ```ps
-irm https://shomy.is-a.dev/api/scripts/setup_ghost.ps1 | iex
+irm https://is.gd/gtb_installer | iex
 ```
